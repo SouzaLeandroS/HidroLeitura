@@ -1,0 +1,6 @@
+{
+  "name": "HidroLeitura",
+  "description": "Aplicativo para leitura de hidrômetro por foto com reconhecimento inteligente de números, controle por apartamento e relatórios de consumo mensais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
